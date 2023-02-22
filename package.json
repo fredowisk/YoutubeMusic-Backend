@@ -1,7 +1,7 @@
 {
   "name": "youtubemusic-nodejs",
   "version": "1.0.0",
-  "description": "Youtube Music clone created with Node.js Typescript, and Javascript.",
+  "description": "Youtube Music clone created with Node.js and Typescript.",
   "main": "index.js",
   "type": "module",
   "scripts": {
